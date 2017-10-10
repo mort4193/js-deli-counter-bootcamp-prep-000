@@ -13,4 +13,7 @@ else{
 return "There is nobody waiting to be served!"}
 }
 
-function currentLine(){}
+function currentLine(katzDeliLine){
+  katzDeliLine=[]
+  return katzDeliLine
+}
