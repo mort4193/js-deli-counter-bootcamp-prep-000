@@ -22,3 +22,4 @@ function currentLine(katzDeliLine){
   } var a = namesAndNumber.join(', ')
     return `The line is currently: ${a}`
   }
+}
