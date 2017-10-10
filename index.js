@@ -19,5 +19,5 @@ function currentLine(katzDeliLine){
     var k= []
     k.push(katzDeliLine[i])
     }
-    return `The lline is Currently: ${k},`
+    return `The line is Currently: ${k},`
   }
